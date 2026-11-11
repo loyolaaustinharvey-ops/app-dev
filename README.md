@@ -9,4 +9,12 @@ My first repository
 ### The way that the show works is by telling it through episodes where each passing episode takes the brothers to different parts of America which in turn makes them also hunt different monsters within different regions.
 
 
+# *Monsters*
 
+### The brothers face different monsters throughout the show. Here are some:
+1. Wendigo
+2. Vampires
+3. Devils
+4. Hooked Man
+5. Ghost Car
+6. Wandering Spirits
