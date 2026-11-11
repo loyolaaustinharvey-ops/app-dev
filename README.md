@@ -1,5 +1,8 @@
 ## app-dev
 My first repository
+
+<img width="132" height="180" alt="image" src="https://github.com/user-attachments/assets/61b8e75b-fae3-4044-8157-41c36a98585b" />
+
 # *Supernatural*
 
 ### This series is about two brothers who go out and hunt different urban legends and mythological monsters all throughout America.
@@ -18,3 +21,4 @@ My first repository
 4. Hooked Man
 5. Ghost Car
 6. Wandering Spirits
+
